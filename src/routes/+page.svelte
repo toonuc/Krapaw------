@@ -1,10 +1,7 @@
 <script>
 	import Header from "./Header.svelte";
-	import Nav from "./Nav.svelte";
-
 </script>
 <div class="">
-    <Nav />
     <Header />
 </div>
 <style lang="postcss">

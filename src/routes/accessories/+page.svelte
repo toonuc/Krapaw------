@@ -3,5 +3,5 @@
 
 </script>
 <div>
-   BACKPACK
+    ACCESSORIES
 </div>

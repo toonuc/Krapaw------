@@ -1,5 +1,7 @@
-<div class="h-screen">
-    <div class="bg-black h-screen">
+<script>
+</script>
 
-    </div>
+<div class="h-screen">
+	<div class="bg-black h-screen">
+	</div>
 </div>

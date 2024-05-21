@@ -3,5 +3,5 @@
 
 </script>
 <div>
-   BACKPACK
+    <Nav/>
 </div>
